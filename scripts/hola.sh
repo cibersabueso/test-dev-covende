@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo 'Hola Mundo'
+echo 'Hello world !!'
 echo 'Prueba CIID Covende'
